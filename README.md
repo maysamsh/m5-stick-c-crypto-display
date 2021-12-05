@@ -2,7 +2,7 @@
 
 A tiny program to show crypto prices on M5-StickCPlus
 
-![m5-desk](pics/m5-desk.jpg)![m5-desk](pics/m5-desk.jpg)
+![m5-desk](pics/m5-desk.jpg)
 
 A while ago I came across this tiny little IoT device called M5Stick. It's pretty powerful and equipped for the size and price ($20) you pay for it, Wifi, bluetooth, microphone, speaker, LCD, a built-in battery, 6-Axis IMU and, ESP32 microcontroller, three buttons and a bunch of pins for expansion. 
 
