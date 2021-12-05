@@ -155,3 +155,5 @@ timer.init(period=1000, mode=timer.PERIODIC, callback=count)
 In the nomic API call if you notice I have put 4 coins in front of `ids` and set `convert` to `CAD` to get the prices in Canadian Dollar, if you remove conver you  will get them in USD. to get different coins use their website to find out which ones are supported. 
 
 [![finished project](http://img.youtube.com/vi/lyZ6PpzQQWk/0.jpg)](http://www.youtube.com/watch?v=lyZ6PpzQQWk "M5Stick C Plus showing cryptocoin prices")
+
+[On Medium: https://medium.com/@maysam.shahsavari/crypto-price-monitor-e1de14907dd5](https://medium.com/@maysam.shahsavari/crypto-price-monitor-e1de14907dd5)
